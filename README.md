@@ -3,7 +3,7 @@
 ### 🏛️ Postdoc & Professional Excellence
 > #### 2025: Strategic Leadership
 > * 👥 **Berkeley Strategy Execution** — *Organizational Leadership & Culture*
-> * 🎯 **[Berkeley Product Management](https://github.com/kooroshvaziri/kooroshvaziri)** — *Product Strategy & Roadmapping*
+> * 🎯 **Berkeley Product Management** — *Product Strategy & Roadmapping*
 >
 > #### 2024: Technical Mastery
 > * 🎄 **[Advent of Code (Rust)](https://github.com/kooroshvaziri/Advent-of-Code-2024)**
