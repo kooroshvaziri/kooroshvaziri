@@ -1,12 +1,15 @@
 ## 📅 Koorosh Vaziri Portfolio
 
-> ### 🏛️ Berkeley Haas School of Business
+> ### 🏛️ Post PhD Work
+> * **2025:**
+>   * **👥[Berkeley Leading Strategy Execution through Culture Program]**
+>   * **🎯[Berkeley Product Management Studio Program]**
 > * **2024:**
->   * **🧑‍🎓[Advent of Code 2024]**:
+>   * **🎄[Advent of Code 2024]**:
 >     * [Rust Code Solutions](https://github.com/kooroshvaziri/Advent-of-Code-2024)
->   * **🧑‍🎓[Berkeley FinTech: Frameworks, Applications, and Strategies]**:
+>   * **📈[Berkeley FinTech: Frameworks, Applications, and Strategies]**:
 >     * [Giftopia Capstone Project](https://github.com/kooroshvaziri/Berkeley_FinTech)
->   * **🧑‍🎓[Berkeley AI Bootcamp]**:
+>   * **🤖[Professional Certificate in Machine Learning and Artificial Intelligence]**:
 >     * [Credit Card Defaults Analysis](https://github.com/kooroshvaziri/Machine_Learning_Classification_Model_for_Credit_Card_Defaults)
 >     * [Certified Deposit (CD) Analysis](https://github.com/kooroshvaziri/AIML_Classifier_Performance_Comparison_for_Termed_Certified_Deposits)
 >     * [Vehicle Price Analysis](https://github.com/kooroshvaziri/Machine_Learning_ML_Regression_Model_for_Car_Prices)
