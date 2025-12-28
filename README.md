@@ -8,7 +8,7 @@
 > #### 2024: Technical Mastery
 > * 🎄 **[Advent of Code (Rust)](https://github.com/kooroshvaziri/Advent-of-Code-2024)**
 > * 📈 **[Berkeley FinTech](https://github.com/kooroshvaziri/Berkeley_FinTech)**
-> * 🤖 **[AI/ML Professional Certificate](https://github.com/kooroshvaziri/Berkeley_AIML)**
+> * 🤖 **[Berkeley AI/ML Professional Certificate](https://github.com/kooroshvaziri/Berkeley_AIML)**
 
 ---
 
