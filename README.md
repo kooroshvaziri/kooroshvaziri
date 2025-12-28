@@ -1,6 +1,6 @@
 ## 📅 Koorosh Vaziri Portfolio
 
 > ### 🚀 University Projects
-> * **[2011-2013](Undergrad_Projects)**
-> * **[2014-2016](Graduate_Projects)**
-> * **[2017-2023](PhD_Research)**
+> * **[Undergraduate Projects (2011-13)](kooroshvaziri/Undergrad_Projects)**
+> * **[Graduate Projects (2014-16)](kooroshvaziri/Graduate_Projects)**
+> * **[PhD Research (2017-23)](kooroshvaziri/PhD_Research)**
