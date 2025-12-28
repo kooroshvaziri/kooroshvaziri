@@ -1,6 +1,6 @@
 ## 💼 Koorosh Vaziri Portfolio
 
-### 🏛️ Postdoc & Professional Excellence
+### 🏢 Postdoc & Professional Excellence
 > #### 2025: Strategic Leadership
 > * 👥 **Berkeley Strategy Execution** — *Organizational Leadership & Culture*
 > * 🎯 **Berkeley Product Management** — *Product Strategy & Roadmapping*
@@ -10,9 +10,10 @@
 > * 📈 **[Berkeley FinTech](https://github.com/kooroshvaziri/Berkeley_FinTech)**
 > * 🤖 **[Berkeley AI/ML Certificate](https://github.com/kooroshvaziri/Berkeley_AIML)**
 
-### 🎓 Academic Foundations
+### 🏛️ Academic Foundations
 > #### 2017-2023: Doctoral Research
-> * 🧑‍🏫 **[PhD Dissertation: Large-Scale Optimization and Control](https://conservancy.umn.edu/items/842c3edc-e12d-4da4-848e-9fa362b53aff)**
+> * 📚 **[PhD Dissertation: Large-Scale Optimization and Control](https://conservancy.umn.edu/items/842c3edc-e12d-4da4-848e-9fa362b53aff)**
+> * 🎖️ **IEEEVR Best Doctoral Dissertation Nominee**
 > * 🧑‍🏫 **[PhD Research](https://github.com/kooroshvaziri/PhD_Research)**
 >
 > #### 2011-2016: Engineering Fundamentals
