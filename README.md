@@ -1,6 +1,6 @@
 ## 📅 Koorosh Vaziri Portfolio
 
-> ### 🏛️ Post PhD Work
+> ### 🏛️ Postdoc Work
 > * **2025:**
 >   * **👥 Berkeley Leading Strategy Execution through Culture Program**
 >   * **🎯 Berkeley Product Management Studio Program**
