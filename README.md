@@ -4,7 +4,7 @@
 > * **2024:**
 >   * **🧑‍🎓[Advent of Code 2024]**:
 >     * [Rust Code Solutions](https://github.com/kooroshvaziri/Advent-of-Code-2024)
->   * **🧑‍🎓[Berkeley FinTech]**:
+>   * **🧑‍🎓[Berkeley FinTech: Frameworks, Applications, and Strategies]**:
 >     * [Giftopia Capstone Project](https://github.com/kooroshvaziri/Berkeley_FinTech)
 >   * **🧑‍🎓[Berkeley AI Bootcamp]**:
 >     * [Credit Card Defaults Analysis](https://github.com/kooroshvaziri/Machine_Learning_Classification_Model_for_Credit_Card_Defaults)
