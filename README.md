@@ -1,4 +1,4 @@
-## 📅 Koorosh Vaziri Portfolio
+## 💼 Koorosh Vaziri Portfolio
 
 ### 🏛️ Postdoc & Professional Excellence
 > #### 2025: Strategic Leadership
