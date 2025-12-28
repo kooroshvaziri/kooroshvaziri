@@ -1,7 +1,7 @@
 ## 📅 Koorosh Vaziri Portfolio
 
 > ## 🏛️ Berkeley Haas School of Business
-> ### **2024: 🧑‍🎓[AI Bootcamp]**
+> * **2024: 🧑‍🎓[AI Bootcamp]**
 
 > ## 🏛️ University Projects
 > * **2017-2023: 🧑‍🏫[PhD Research](https://github.com/kooroshvaziri/PhD_Research)**
