@@ -2,7 +2,7 @@
 
 ### 🏢 Postdoc & Professional Excellence
 > #### 2025: Strategic Leadership
-> * 👥 **Berkeley Strategy Execution** — *Organizational Leadership & Culture*
+> * 👥 **[Berkeley Strategy Execution](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture)** — *Organizational Leadership & Culture*
 > * 🎯 **[Berkeley Product Management Studio](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio)** — *Product Strategy & Roadmapping*
 >
 > #### 2024: Technical Mastery
