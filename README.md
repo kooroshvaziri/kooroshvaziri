@@ -12,7 +12,7 @@
 
 ### 🏛️ Academic Foundations
 > #### 2017-2023: Doctoral Research
-> * 🎓 **PhD in Computer Science | University of Minnesota** — *[Verified Degree Credential](https://www.parchment.com/u/award/a67db9cfa2d019816c36fde795fc89c1)*
+> * 🎓 **[PhD in Computer Science | University of Minnesota](https://www.parchment.com/u/award/a67db9cfa2d019816c36fde795fc89c1)**
 > * 📚 **[PhD Dissertation: Large-Scale Optimization and Control](https://conservancy.umn.edu/items/842c3edc-e12d-4da4-848e-9fa362b53aff)**
 > * 🎖️ **[IEEEVR Best Doctoral Dissertation Nominee](https://github.com/kooroshvaziri/IEEEVR_Best_Doctoral_Dissertation_Nominee)**
 > * 🧑‍🏫 **[PhD Research](https://github.com/kooroshvaziri/PhD_Research)** — *Virtual Reality (VR), Augmented Reality (AR), Mixed Reality (MR)*
