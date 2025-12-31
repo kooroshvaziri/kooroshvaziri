@@ -2,7 +2,7 @@
 
 ### 🏢 Postdoc & Professional Excellence
 > #### 2026: Executive Leadership & Digital Strategy
-> * 🏆 [**UC Berkeley Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_CoBE) — *Executive MBA alt.*
+> * 🏆 [**UC Berkeley Certificate of Business Excellence (CoBE)**](https://github.com/kooroshvaziri/Berkeley_CoBE) — *Executive MBA alt.*
 > * 📊 [**Berkeley Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage (Starts Jan 2026)*
 > * 🌐 [**Berkeley Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology (Starts Mar 2026)*
 >
