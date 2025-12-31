@@ -2,8 +2,8 @@
 
 ### 🏢 Postdoc & Professional Excellence
 > #### 2026: Executive Leadership & Digital Strategy
-> * 🌐 **[Berkeley Digital Transformation](https://github.com/kooroshvaziri/Berkeley_Digital_Transofrmation)** — *Leading People, Data, and Technology* (Starts Mar 2026)
 > * 📊 **[Berkeley Data Strategy](https://github.com/kooroshvaziri/Berkeley_Data_Strategy)** — *Leveraging Data as a Competitive Advantage* (Starts Jan 2026)
+> * 🌐 **[Berkeley Digital Transformation](https://github.com/kooroshvaziri/Berkeley_Digital_Transofrmation)** — *Leading People, Data, and Technology* (Starts Mar 2026)
 >
 > #### 2025: Strategic Leadership
 > * 👥 **[Berkeley Strategy Execution](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture)** — *Organizational Leadership & Culture*
