@@ -1,7 +1,7 @@
 ## 💼 Koorosh Vaziri Portfolio
 
 ### 🏢 Postdoc & Professional Excellence
-> #### 2025-2026: Berkeley HAAS Executive Leadership & Digital Strategy
+> #### 2025-2026: UC Berkeley HAAS Executive Leadership & Digital Strategy
 > * 🏆 [**UC Berkeley Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Executive MBA alt.*
 > * 📊 [**Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage*
 > * 🌐 [**Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology*
