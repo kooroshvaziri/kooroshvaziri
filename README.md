@@ -10,8 +10,8 @@
 >
 > #### 2024: Technical Mastery
 > * 🎄 [**Advent of Code (Rust)**](https://github.com/kooroshvaziri/Advent-of-Code-2024)
-> * 📈 [**Berkeley FinTech**](https://github.com/kooroshvaziri/Berkeley_FinTech)
-> * 🤖 [**Berkeley AI/ML Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML)
+> * 📈 [**Berkeley FinTech**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Frameworks, Applications, and Strategies*
+> * 🤖 [**Berkeley AI/ML Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML) — *Data Science Bootcamp*
 
 ### 🏛️ Academic Foundations
 > #### 2017-2023: Doctoral Research
