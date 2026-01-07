@@ -3,10 +3,10 @@
 ### 🏢 Postdoc & Professional Excellence
 > #### 2025-2026: UC Berkeley HAAS Executive Leadership & Digital Strategy
 > * 🏆 [**UC Berkeley Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Executive MBA alt.*
-> * 📊 [**Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage*
-> * 🌐 [**Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology*
-> * 👥 [**Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership & Culture*
-> * 🎯 [**Product Management Studio**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy & Roadmapping*
+> * 📊 [**Berkeley Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage*
+> * 🌐 [**Berkeley Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology*
+> * 👥 [**Berkeley Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership & Culture*
+> * 🎯 [**Berkeley Product Management**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy & Roadmapping*
 >
 > #### 2024: Technical Mastery
 > * 🎄 [**Advent of Code (Rust)**](https://github.com/kooroshvaziri/Advent-of-Code-2024)
