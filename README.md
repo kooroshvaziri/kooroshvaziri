@@ -1,19 +1,19 @@
 ## 💼 Koorosh Vaziri Portfolio
 
 ### 🏢 Postdoc & Professional Excellence
-> #### 2026: UC Berkeley HAAS Executive Leadership & Digital Strategy
-> * 🏆 [**UC Berkeley Executive MBA alt.**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Certificate of Business Excellence (COBE)*
-> * 📊 [**Berkeley Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage*
-> * 🌐 [**Berkeley Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology*
+> #### 2026: Executive MBA, Leadership & Digital Strategy
+> * 🏆 [**Executive MBA alt. | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_COBE) — *HAAS School of Business Certificate of Business Excellence (COBE)*
+> * 📊 [**Data Strategy | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage*
+> * 🌐 [**Digital Transformation | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology*
 >
 > #### 2025: Product & Organizational Strategy
-> * 👥 [**Berkeley Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership & Culture*
-> * 🎯 [**Berkeley Product Management**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy & Roadmapping*
+> * 👥 [**Leading Strategy Execution | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership & Culture*
+> * 🎯 [**Product Management | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy & Roadmapping*
 >
 > #### 2024: Technical Mastery
 > * 🎄 [**Advent of Code (Rust)**](https://github.com/kooroshvaziri/Advent-of-Code-2024)
-> * 📈 [**Berkeley FinTech**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Frameworks, Applications, and Strategies*
-> * 🤖 [**Berkeley AI/ML Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML) — *Data Science Bootcamp*
+> * 📈 [**FinTech | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Frameworks, Applications, and Strategies*
+> * 🤖 [**AI/ML Certificate | UC Berkeley**](https://github.com/kooroshvaziri/Berkeley_AIML) — *Data Science Bootcamp*
 
 ### 🏛️ Academic Foundations
 > #### 2017-2023: Doctoral Research
