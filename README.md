@@ -10,7 +10,7 @@
 > * 👥 [**UC Berkeley Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership & Culture*
 > * 🎯 [**UC Berkeley Product Management**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy & Roadmapping*
 >
-> #### 2024: Technical Mastery
+> #### 2024: AI & Technical Mastery
 > * 🎄 [**Advent of Code (Rust)**](https://github.com/kooroshvaziri/Advent-of-Code-2024)
 > * 📈 [**UC Berkeley FinTech**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Frameworks, Applications, and Strategies*
 > * 🤖 [**UC Berkeley AI/ML Bootcamp**](https://github.com/kooroshvaziri/Berkeley_AIML) — *Data Science Certificate*
