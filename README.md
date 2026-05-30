@@ -12,7 +12,7 @@
 > * 📈 [**UC Berkeley FinTech Frameworks**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Decentralized applications, cryptographic assets, and automated economic strategies.*
 
 > #### 2024: Data Science & High-Performance Engineering (UC Berkeley Engineering)
-> * 🤖 [**UC Berkeley Data Science Professional Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML) — *6-month intensive engineering program covering core statistical theory, predictive modeling, machine learning architecture, and advanced time-series analysis.*
+> * 🤖 [**UC Berkeley AI/ML Professional Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML) — *6-month intensive engineering program covering core statistical theory, predictive modeling, machine learning architecture, and advanced time-series analysis.*
 > * 🎄 [**Advent of Code (Rust)**](https://github.com/kooroshvaziri/Advent-of-Code-2024) — *High-performance programmatic problem solving utilizing native, production-grade Rust.*
 
 ### 🏛️ Academic Foundations
