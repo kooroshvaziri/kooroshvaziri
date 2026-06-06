@@ -4,7 +4,6 @@
 
 > #### 2024 - 2026: Executive Leadership & Business Strategy (UC Berkeley Haas)
 > * 🎓 [**UC Berkeley Haas Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Advanced Executive Program intersecting data strategy, product management, and organizational culture.*
->   * 🚀 **Program Capstone:** Developed the business strategy and technical blueprint for **SONERAMIC**, an AI-driven spatial computing platform utilizing ultrasonic and LiDAR digital twins to disrupt acoustic calibration standards.
 > * 🌐 [**UC Berkeley Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology; Process optimization through Swimlane mapping.*
 > * 📊 [**UC Berkeley Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage; Building data assets and flywheels.*
 > * 👥 [**UC Berkeley Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership, Alignment, and High-Performance Engineering Culture.*
