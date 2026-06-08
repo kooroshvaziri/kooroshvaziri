@@ -4,11 +4,6 @@
 
 > #### 2024 - 2026: Executive Leadership & Business Strategy (UC Berkeley Haas)
 > * 🎓 [**UC Berkeley Haas Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Advanced Executive Program intersecting data strategy, product management, and organizational culture.*
-> * 🌐 [**UC Berkeley Digital Transformation**](https://github.com/kooroshvaziri/Berkeley_Digital_Transformation) — *Leading People, Data, and Technology; Process optimization through Swimlane mapping.*
-> * 📊 [**UC Berkeley Data Strategy**](https://github.com/kooroshvaziri/Berkeley_Data_Strategy) — *Leveraging Data as a Competitive Advantage; Building data assets and flywheels.*
-> * 👥 [**UC Berkeley Leading Strategy Execution**](https://github.com/kooroshvaziri/Berkeley_Leading_Strategy_Execution_through_Culture) — *Organizational Leadership, Alignment, and High-Performance Engineering Culture.*
-> * 🎯 [**UC Berkeley Product Management**](https://github.com/kooroshvaziri/Berkeley_Product_Management_Studio) — *Product Strategy, Market Analysis, and Lifecycle Roadmapping.*
-> * 📈 [**UC Berkeley FinTech Frameworks**](https://github.com/kooroshvaziri/Berkeley_FinTech) — *Decentralized applications, cryptographic assets, and automated economic strategies.*
 
 > #### 2024: Data Science & High-Performance Engineering (UC Berkeley Engineering)
 > * 🤖 [**UC Berkeley Engineering Professional AI/ML Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML) — *6-month intensive program covering core statistical theory, predictive modeling, machine learning architecture, neural networks, and advanced time-series analysis.*
