@@ -3,7 +3,8 @@
 ### 🏢 Postdoc & Professional Excellence
 
 > #### 2024 - 2026: Executive Leadership & Business Strategy (UC Berkeley Haas)
-> * 🎓 [**UC Berkeley Haas Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Advanced Executive Program intersecting data strategy, product management, and organizational culture.*
+> * 🎓 [**UC Berkeley Haas Certificate of Business Excellence (COBE)**](https://github.com/kooroshvaziri/Berkeley_COBE) — *Advanced Executive Program intersecting 
+Data Strategy, Digital Transformation, Product Management, Organizational Culture, and Advanced FinTech Frameworks.*
 
 > #### 2024: Data Science & High-Performance Engineering (UC Berkeley Engineering)
 > * 🤖 [**UC Berkeley Engineering Professional AI/ML Certificate**](https://github.com/kooroshvaziri/Berkeley_AIML) — *6-month intensive program covering core statistical theory, predictive modeling, machine learning architecture, neural networks, and advanced time-series analysis.*
